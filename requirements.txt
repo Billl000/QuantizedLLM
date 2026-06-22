@@ -3,3 +3,7 @@ sentence-transformers
 ollama
 sklearn
 numpy
+gymnasium
+matplotlib
+pickle
+random
