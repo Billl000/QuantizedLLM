@@ -7,3 +7,8 @@ gymnasium
 matplotlib
 pickle
 random
+fastapi
+typing
+paddleocr
+paddlepaddle-gpu
+cv2
